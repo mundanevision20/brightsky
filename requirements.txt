@@ -6,7 +6,7 @@
 #
 astral==3.2
     # via brightsky (setup.py)
-certifi==2023.5.7
+certifi==2023.7.22
     # via
     #   pyproj
     #   requests
